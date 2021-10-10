@@ -2,4 +2,4 @@
 
 
 ### Screenshots:
-![Alt text](/Netflix%20UI/screenshots/screenshot_1.png "Netflix UI")
+<img src="https://github.com/dean-pearce/UI_Clones/raw/main/Netflix%20UI/screenshots/screenshot_1.png" height=45% width=45%>
