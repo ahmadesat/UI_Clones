@@ -2,4 +2,4 @@
 
 
 ### Screenshots:
-![Alt text](/screenshots/screenshot_1.png?raw=true "Netflix UI")
+![Alt text](/Netflix%20UI/screenshots/screenshot_1.png?raw=true "Netflix UI")
